@@ -20,7 +20,6 @@ mod 'puppetlabs-strings',
 # Define which version to install using one of the following
 :ref => '0.2.0'
 # a specific version
-#:tag
-=> '0.1.1'
+#:tag => '0.1.1'
 # or specific tag
 #:commit => '346832a5f88a0ec43d' # or specific commit
